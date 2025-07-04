@@ -62,3 +62,58 @@ Key highlights include:
   - **441 are female (46.62%)**
   - **40 employees (4.23%) did not disclose their gender**
 - **Gender distribution is almost balanced**, though some regions (e.g. Kaduna) and departments (like Engineering) have slightly more male employees.
+
+### 2. **Performance Ratings**
+- Most employees across all genders received **“Average”** ratings.
+- Very few were rated “Very Good” or “Good”, suggesting:
+  - A need to **review performance criteria**
+  - Possible lack of recognition for top performers
+
+### 3. **Salary Structure**
+- **Total salary paid** across the company: **$69.72 million**
+  - **Males:** $34.78M (49.88%)
+  - **Females:** $31.81M (45.63%)
+- Male employees earn slightly more in total across all regions.
+- This could be due to **role differences**, but a **closer review is recommended**.
+
+### 4. **Minimum Salary Compliance**
+- A new regulation requires every employee to earn **at least $90,000 annually**.
+- A full **salary band analysis** was done to check compliance.
+- Results show that Palmoria needs to **review some salary levels** to meet the minimum standard.
+
+## ✅ Recommendations
+### 1. Ask Employees to Share Gender (If They’re Comfortable)
+- Some employees didn’t say whether they’re male or female.
+
+Kindly encourage employees to share this info, in a private and respectful way, so reports are more accurate in the future.
+
+### 2. Make Performance Ratings Clear and Fair
+  - Train managers to rate employees more fairly using clear guidelines.
+
+Create a system that properly rewards staff who are doing great work, instead of rating most people as just “average.”
+
+### 3. Review Salary Differences Between Men and Women
+- Take a closer look at pay across similar job roles, especially in Kaduna and departments like Engineering, to make sure men and women doing the same job are paid fairly.
+
+### 4. Make Sure Everyone Is Paid the Legal Minimum
+- The law says all employees should earn at least **$90,000** a year.
+
+Go through the salary list and fix where someone is earning less than that.
+
+### 5. Use a Clear and Fair Bonus System
+- Bonuses should be given based on how well employees perform.
+  
+Make the process open and easy to understand, so all employees know what to expect and feel motivated.
+
+## 📂 Data Source
+
+The datasets used in this project, including the employee HR data and bonus rule data were provided by **Digital SkillUp Africa** as part of a practical assignment for the Data Analysis Certification Program.
+
+All analysis, cleaning, and visualizations were done solely for educational and project-based learning purposes.
+
+---
+
+## 👩‍💼 About the Analyst
+Prepared by **Bakare Patience Omime**, Data Analyst & Educator 
+
+Focused on turning data into clear, actionable insights to support better decision-making.
