@@ -28,7 +28,32 @@ The aim of this project is to analyze Palmoria Group’s employee data across al
   - Clearly written below in this README based on the analysis and dashboard findings  
 
   ---
-  
+  ## 📸 Dashboard Preview
+
+### 🧾 Employee Analysis Dashboard  
+![Employee Analysis](https://github.com/Patbakare1/Palmoria_Group_Employee_Analysis/blob/main/Employee_Analysis_Screenshot.png)
+
+This dashboard gives an overview of Palmoria Group’s gender distribution, salary structure, and performance ratings across departments and regions.  
+Key highlights include:
+- Gender breakdown by department and location  
+- Salary totals by gender and region  
+- Performance rating patterns for male, female, and undisclosed employees  
+- Visual cues for identifying areas with potential gender bias  
+
+---
+
+### 💰 Bonus Allocation Dashboard  
+![Bonus Allocation](https://github.com/Patbakare1/Palmoria_Group_Employee_Analysis/blob/main/Bonus_Distribution_Analysis_Screenshot.png)
+
+This dashboard shows how performance-based bonuses were calculated and distributed among employees.  
+Key highlights include:
+- Bonus amounts assigned based on employee ratings  
+- Total compensation (salary + bonus) per employee  
+- Bonus + Salary summary by region  
+- A clear, data-driven structure for fair and transparent bonus allocation  
+
+---
+
 ## 📊 Key Findings
 
 ### 1. **Gender Distribution**
