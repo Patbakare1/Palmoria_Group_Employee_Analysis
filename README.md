@@ -1,4 +1,4 @@
-# 🏢 Palmoria Group HR Gender Analysis
+# 🏢 Palmoria Group Employee Gender Analysis
 
 This project focuses on helping **Palmoria Group**, a manufacturing company in Nigeria, deal with **gender-related issues in the workplace**. A recent media headline accused the company of being male-dominated, and now the management wants to understand the real story using their employee data, that’s where I come in as the HR data analyst.
 
